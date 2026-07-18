@@ -1,2 +1,10 @@
 Lets start coding
 Happy Journey
+
+git pull origin main
+git status
+
+git add
+git status
+git commit -m "Commit message"
+git push
